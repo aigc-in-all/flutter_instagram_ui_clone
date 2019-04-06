@@ -3,7 +3,7 @@ import 'package:flutter_instagram_ui_clone/insta_body.dart';
 
 class InstaHome extends StatelessWidget {
   final topBar = AppBar(
-    backgroundColor: Color(0xff8faf8),
+    backgroundColor: Color(0xfff8faf8),
     centerTitle: true,
     elevation: 1.0,
     leading: new Icon(Icons.camera_alt),
